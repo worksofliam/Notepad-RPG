@@ -11,3 +11,7 @@ Support extension is .sqlrpgle, but you are able to change it in the XML.
 2. Language dropdown -> Define your language...
 3. Click Import
 4. Select sqlrpgle.xml
+
+### Add function list
+
+1. Make modifications to your %appdata%/Notepad++/functionList.xml as it says in the `functionList.xml`

@@ -1,0 +1,20 @@
+
+		<!--
+    Below node goes within the associationMap section
+		-->
+    
+			<association ext=".sqlrpgle" userDefinedLangName="sqlrpgle" id="sqlrpgle"/>
+
+		<!--
+    Below node goes within the parsers section
+		-->
+    
+      <parser id="sqlrpgle" displayName="SQLRPGLE">
+				<function
+				    mainExpr="(\bdcl-proc\s)(\w+)"
+					displayMode="$functionName">
+					<functionName>
+						<nameExpr expr="(?<=dcl-proc ).*"/>
+					</functionName>
+				</function>
+			</parser>
