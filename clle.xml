@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="clle" ext="clle" udlVersion="2.1">
+    <UserLang name="clle" ext="clle cl qclsrc qcllesrc" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="yes" Keywords3="no" Keywords4="yes" Keywords5="no" Keywords6="yes" Keywords7="no" Keywords8="no" />
